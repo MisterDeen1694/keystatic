@@ -103,7 +103,7 @@ export default config({
 					label: "Headshot",
 					description: "Headshot for testimonail person",
 					validation: { isRequired: true },
-					publicPath: "src/assets/testimonial/",
+					publicPath: "/src/assets/testimonial/",
 				}),
 			},
 		}),
